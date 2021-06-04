@@ -1,0 +1,184 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+position: relative;
+  padding-top: 80px;
+
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 114px 215px;
+  text-align: center;
+  border-radius: 8PX;
+  text-decoration: none;
+  display: inline-block;
+  padding-left: 50px;
+}
+
+
+
+.log{
+
+  float: left;
+}
+
+
+.karthi{
+  background-color: #ebe8e8;
+}
+
+
+
+
+
+
+
+
+.text1{
+font-size: 25px;
+color: white;
+position: absolute;
+ top: 58%;
+ left: 46%;
+font-family: 'Raleway', sans-serif;
+
+}
+.text2{
+
+  font-size: 23px;
+  color: white;
+  position: absolute;
+   top: 64%;
+   left: 44%;
+  font-family: 'Raleway', sans-serif;
+}
+.text3{
+  font-size: 25px;
+  color: white;
+  position: absolute;
+   top: 61%;
+   left: 28%;
+  font-family: 'Raleway', sans-serif;
+}
+.text4{
+  font-size: 23px;
+  color: white;
+  position: absolute;
+   top: 67%;
+   left: 26%;
+  font-family: 'Raleway', sans-serif;
+
+
+
+}
+.text5{
+  font-size: 25px;
+  color: white;
+  position: absolute;
+   top: 61%;
+   left: 64%;
+  font-family: 'Raleway', sans-serif;
+}
+.text6{
+  font-size: 23px;
+  color: white;
+  position: absolute;
+   top: 67%;
+   left: 63%;
+  font-family: 'Raleway', sans-serif;
+
+
+
+}
+
+
+.secondpart{
+position: absolute;
+top: 74%;
+left: 32;
+
+
+}
+.prt1{
+background-color:#E0E0E0;
+padding-top: 600px;
+
+
+
+}
+.part1{
+         padding-left: 700px;
+}
+.part2{
+         padding-left: 800px;
+
+}
+
+.part3{
+         padding-left: 700px;
+
+}
+
+.part4{
+         padding-left: 800px;
+}
+.part5{
+         padding-left: 700px;
+}
+.part6{
+         padding-left: 800px;
+}
+.part7{
+         padding-left: 700px;
+}
+.part8{
+         padding-left: 800px;
+}
+
+.main-nav{
+  padding-left: 400px;
+padding-top: 20px;
+  border-radius: 8PX;
+}
+
+
+
+h
+
+
+
+
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+a:link, a:visited {
+  background-color: #4692DF;
+  color: white;
+    border-radius: 8PX;
+  padding: 20px 75px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    margin:10px;
+
+}
+
+a:hover, a:active {
+  background-color: #0E6DCD;
+    border-radius: 8PX;
+    margin:5px;
+}
