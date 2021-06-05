@@ -30,7 +30,60 @@ body {
   .karthi{
     background-color: #ebe8e8;
   }
-  
+  {
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.orange{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    margin-left: 40px;
+    
+}
+
+.apple{
+    font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 3px;
+     margin-left: 40px;
+}
+
+.blue-berries{
+    font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 3px;
+     margin-left: 40px;
+     
+
+}
+
+.garlic{
+     font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 3px;
+     margin-left: 40px;
+}
+
+.egg{
+    font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 3px;
+     margin-left: 40px;
+}
+
+.carrots{
+    font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 3px;
+     margin-left: 40px;
+}
+
+.essential-nutients{
+    font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 3px;
+     margin-left: 40px;
+}
   
   
   
